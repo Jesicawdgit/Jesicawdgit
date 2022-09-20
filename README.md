@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-🔭 I’m currently working on ...
+### Hey there 👋
 - 🌱 I’m currently learning ... web dev from "The Odin Project"
 - 👯 I’m a Cse uni student at Gitam Hyderabad.
 - 🤔 my web dev teacher is very strict.
